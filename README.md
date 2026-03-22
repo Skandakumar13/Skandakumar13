@@ -59,28 +59,6 @@ I’ve recently earned my **AWS Solutions Architect – Associate certification*
 
 ---
 
-## 💡 Projects I'm Working On
-
-### 🔹 SRE AI Agent (WIP)
-Building an AI-powered assistant to:
-- Monitor infrastructure
-- Detect anomalies
-- Suggest/trigger auto-remediation
-
-### 🔹 Terraform-Based AWS Automation
-- Infrastructure provisioning via code
-- Budget-aware resource management (kill switch concept)
-- Multi-environment deployments
-
-### 🔹 Observability Stack
-- Nginx + Prometheus setup
-- Centralized Grafana monitoring architecture
-
-### 🔹 Weekly SRE Projects
-- Continuous hands-on labs simulating real-world production issues
-
----
-
 ## 🔥 Goals
 
 - Become an expert in Cloud-Native SRE practices
@@ -96,15 +74,6 @@ Building an AI-powered assistant to:
 - AI/ML fundamentals for infrastructure use cases
 - System design for large-scale distributed systems
 - AIOps & intelligent monitoring systems
-
----
-
-## 🤝 Let's Connect
-
-I’m always open to:
-- Collaborating on SRE / DevOps / AI projects
-- Learning opportunities
-- Discussions on cloud, infrastructure, and automation
 
 ---
 
