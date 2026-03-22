@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Skanda Kumar
 
-🚀 **Site Reliability Engineer (SRE) | Cloud & DevOps Enthusiast | Aspiring AI Engineer**
+🚀 **Site Reliability Engineer (SRE) | Cloud & DevOps Enthusiast
 
 ---
 
